@@ -17,3 +17,16 @@ venv/
 *.log
 .DS_Store
 
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore large model checkpoints (keep only the best one)
+gpt2_finetuned_epoch_*.pth
+
+# Ignore unnecessary Jupyter notebooks
+Untitled*.ipynb
+
+# Ignore unnecessary logs and cache
+*.log
+

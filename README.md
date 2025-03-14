@@ -35,5 +35,9 @@ Calista is an AI-powered chatbot designed for Calisnova, a startup dedicated to 
 │──  README.md  -------->                # Project documentation
 
 
+![image](https://github.com/user-attachments/assets/f003c1eb-5352-4b36-ab4e-fad13399d59a)
+
+
+
 
 

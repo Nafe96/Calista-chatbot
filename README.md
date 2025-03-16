@@ -1,10 +1,10 @@
 Calista - The Calisnova Chatbot
 
-Calista is an AI-powered chatbot designed for Calisnova, a startup dedicated to equipping students Calista is an AI-powered chatbot designed for Calisnova, a startup dedicated to equipping students with  their queries.  
+Calista is an AI-powered chatbot designed for Calisnova, a startup dedicated to equipping students  with essential life skills beyond traditional education. Calista helps users learn about Calisnova's services, programs, and events, while also assisting students with their queries. 
 
 
 
-🌟 Features
+ Features
 
 
 ✅ Provides Information About Calisnova – Learn about our services, workshops, and programs.
@@ -18,24 +18,27 @@ Calista is an AI-powered chatbot designed for Calisnova, a startup dedicated to 
 ✅ Custom Branding – Matches Calisnova’s theme and identity.
 
 
-📁 Calista-chatbot/
 
-│──  fine_tuned_gpt2/-------->         # GPT-2 fine-tuned model
+Project Structure
 
-│──  backend/  -------->                 # FastAPI backend
+│──  fine_tuned_gpt2/-------->          GPT-2 fine-tuned model
 
-│──  frontend/  -------->                # Streamlit UI
+│──  backend/  -------->                 FastAPI backend
 
-│──  backend.py -------->                # API logic
+│──  frontend/  -------->                 Streamlit UI
 
-│──  chatbott_app.py -------->           # Streamlit UI logic
+│──  backend.py -------->                 API logic
 
-│──  requirements.txt -------->          # Dependencies
+│──  chatbott_app.py -------->            Streamlit UI logic
 
-│──  README.md  -------->                # Project documentation
+│──  requirements.txt -------->           Dependencies
+
+│──  README.md  -------->                 Project documentation
 
 
-![image](https://github.com/user-attachments/assets/f003c1eb-5352-4b36-ab4e-fad13399d59a)
+Created  by Nafe Tameem.
+![image](https://github.com/user-attachments/assets/05e99d9e-c5ba-4a61-aced-7a542b005be7)
+
 
 
 

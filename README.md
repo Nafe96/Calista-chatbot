@@ -1,4 +1,4 @@
-Calista - The Calisnova Chatbot
+**Calista - The Calisnova Chatbot**
 
 Calista is an AI-powered chatbot designed for Calisnova, a startup dedicated to equipping students  with essential life skills beyond traditional education. Calista helps users learn about Calisnova's services, programs, and events, while also assisting students with their queries. 
 
